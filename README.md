@@ -1,6 +1,6 @@
 # Car detection , recognition and verification system
 <p> The first window is the home mode which will provide you a Live Preview mode.
-<img src="https://i.imgur.com/H3tUyKM.png">
+<img src="https://github.com/yahyahajlaoui/car_det_reco/blob/931cd6ffc3551a8365828e4d612a22f83b9fc616/test/Untitled.png">
 The second window is the database mode which contains all registered Vehicles in the subdivision containing all relevant information such as. Plate Number , Owner Name and the Date the vehicle was registered.
 <img src="https://i.imgur.com/H3tUyKM.png">
 The register mode also is responsible for registering new vehicles and all other information related to the database
